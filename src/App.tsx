@@ -320,15 +320,6 @@ function App() {
             >
             </model-viewer>
           </div>
-
-          <div className="mt-8 bg-amber-900/30 backdrop-blur-sm p-6 rounded-xl border border-amber-700/50">
-            <p className="text-amber-100 text-center leading-relaxed">
-              <strong className="text-amber-300">Nota per il docente:</strong> Sostituisci il file
-              <code className="bg-stone-900/50 px-2 py-1 rounded text-amber-200 mx-1">formella.glb</code>
-              nella cartella <code className="bg-stone-900/50 px-2 py-1 rounded text-amber-200">public/</code>
-              con il tuo modello 3D in formato .glb. Il sito funzionerà automaticamente!
-            </p>
-          </div>
         </div>
       </section>
 
